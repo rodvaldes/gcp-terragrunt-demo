@@ -1,6 +1,6 @@
 
 locals {
-  project  = "devops-2020"
+  project  = "devops-2020-337523"
   region = "us-central1"
 }
 
