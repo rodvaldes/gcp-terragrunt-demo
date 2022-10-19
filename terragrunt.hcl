@@ -1,7 +1,7 @@
 
 locals {
-  project  = "nap-devops-nonprod"
-  region = "asia-southeast1"
+  project  = "devops-2020"
+  region = "us-central1"
 }
 
 inputs = {
